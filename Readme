@@ -1,0 +1,120 @@
+<div style="background: linear-gradient(90deg, #00B8D9,rgb(12, 68, 76)); padding: 40px 20px; border-radius: 15px; text-align: center; animation: fadeIn 2s ease-in-out;">
+  <h1 style="color: white; font-size: 48px; margin-bottom: 10px;">Career Preferences Report: Gen Z Edition</h1>
+  <h3 style="color: #ECEFF1; font-weight: normal; font-size: 20px;">
+    Insights into Aspirations, Motivations, Industry Choices, and Challenges Shaping the Future of Work
+  </h3>
+</div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
+<br>
+
+---
+
+## Overview
+
+This project analyzes survey responses from over 230 Gen Z participants to understand their career preferences, motivations, desired work environments, and perspectives on future employment. The study explores factors influencing their career aspirations, openness to higher education abroad, job tenure expectations, and their stance on company mission and social impact. The findings aim to provide valuable insights into the mindset of the next generation workforce.
+
+---
+
+## Dataset
+
+The analysis is based on a survey dataset containing responses to the following questions:
+
+* Your Current Country.
+* Your Current Zip Code / Pin Code
+* Your Gender
+* Which of the below factors influence the most about your career aspirations ?
+* Would you definitely pursue a Higher Education / Post Graduation outside of India ? If only you have to self sponsor it.
+* How likely is that you will work for one employer for 3 years or more ?
+* Would you work for a company whose mission is not clearly defined and publicly posted.
+* How likely would you work for a company whose mission is misaligned with their public actions or even their product ?
+* How likely would you work for a company whose mission is not bringing social impact ?
+* What is the most preferred working environment for you.
+* Which of the below Employers would you work with.
+* Which type of learning environment that you are most likely to work in ?
+* Which of the below careers looks close to your Aspirational job ?
+* What type of Manager would you work without looking into your watch ?
+* Which of the following setup you would like to work ?
+
+---
+
+### Gender Distribution of Respondents:
+
+* Male: 153 participants (66.2%)
+* Female: 78 participants (33.8%)
+
+---
+
+## Tools Used
+
+* **Python**: For data analysis and manipulation.
+* **Pandas**: For creating and managing DataFrames.
+* **Plotly**: For creating interactive data visualizations (used for the hosted dashboard).
+
+---
+
+## Interactive Dashboard
+
+An interactive dashboard visualizing the key findings of this survey has been created using Plotly and Pandas. You can explore the data and insights in more detail through the hosted dashboard:
+
+[**Find the Interactive Dashboard for detailed insights here**](**[UPDATE THIS URL AFTER HOSTING]**)
+
+---
+
+## Key Areas of Analysis (Covered in the Dashboard)
+
+The interactive dashboard provides insights into the following key areas:
+
+* **Influencing Factors on Career Aspirations:** Understanding what matters most to Gen Z when thinking about their careers.
+* **Higher Education Abroad:** Exploring the likelihood of pursuing postgraduate studies internationally under self-funded conditions.
+* **Job Tenure Expectations:** Gauging the tendency of Gen Z to stay with a single employer for a significant period.
+* **Importance of Company Mission:** Analyzing their willingness to work for companies with unclear, misaligned, or non-socially impactful missions.
+* **Preferred Working Environment:** Identifying the most desired workplace settings.
+* **Employer Preferences:** Understanding the types of organizations Gen Z are inclined to work for.
+* **Preferred Learning Environments:** Discovering the learning styles that resonate most with this generation in a professional context.
+* **Aspirational Job Alignment:** Gaining insights into their desired career paths.
+* **Ideal Manager Qualities:** Understanding the type of leadership Gen Z prefers.
+* **Preferred Work Setup:** Exploring their preferences for remote, hybrid, or in-office work arrangements.
+
+---
+
+## Future Work
+
+Further analysis could involve:
+
+* Segmenting responses based on demographic factors (e.g., country) to identify regional variations.
+* Exploring correlations between different career preferences and aspirations.
+* Conducting sentiment analysis on any open-ended responses (if available in a more detailed dataset).
+
+---
+  
+## Author
+
+<div align="center">
+  <img src="assets/PYE.SVG" alt="Author Banner" style="width:100%; height:auto; border-radius: 8px;">
+</div>
+
+**Author**: [Pavan Yellathakota]  
+**Date**: April 2025  
+
+---
+
+## Contact Information
+
+You can reach out to me through the following channels:
+
+- **Email**: [pavanyellathakota@gmail.com](mailto:pavanyellathakota@gmail.com)
+- **LinkedIn**: [Pavan Yellathakota](https://www.linkedin.com/in/pavanyellathakota/)
+
+For more projects and resources, check out:
+
+- **GitHub**: [Pavan Yellathakota](https://github.com/PavanYellathakota)
+- **Portfolio**: [pye.pages.dev](https://pye.pages.dev)
+
+---
