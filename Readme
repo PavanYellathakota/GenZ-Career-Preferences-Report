@@ -1,18 +1,5 @@
-<div style="background: linear-gradient(90deg, #00B8D9,rgb(12, 68, 76)); padding: 40px 20px; border-radius: 15px; text-align: center; animation: fadeIn 2s ease-in-out;">
-  <h1 style="color: white; font-size: 48px; margin-bottom: 10px;">Career Preferences Report: Gen Z Edition</h1>
-  <h3 style="color: #ECEFF1; font-weight: normal; font-size: 20px;">
-    Insights into Aspirations, Motivations, Industry Choices, and Challenges Shaping the Future of Work
-  </h3>
-</div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
-<br>
+# Career Preferences Report: Gen Z Edition
+### Insights into Aspirations, Motivations, Industry Choices, and Challenges Shaping the Future of Work.
 
 ---
 
